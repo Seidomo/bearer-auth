@@ -13,7 +13,7 @@ const options = {
 mongoose.connect(process.env.MONGODB_URI, options)
          .then(() => {
           // Start the web server
-server.startup(process.env.PORT);
+server.start(process.env.PORT);
          }).catch(e => console.error('Not Found', e.message));
 
 
