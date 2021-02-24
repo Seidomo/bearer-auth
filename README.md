@@ -21,13 +21,13 @@ Getting the starter code and installing all the dependencies
 ## Change Log
 
 02-23-2021 10:59pm - Application was debugged and  fully-functional and passing
-all the tests.
+all the tests and deployed to heroku.
 
 # deployment
 
-* [heroku]()
+* [heroku](https://authenser.herokuapp.com/)
 
-
+* [UML](./src/asset/lab07.png)
 
 
 
